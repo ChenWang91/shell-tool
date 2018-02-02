@@ -11,3 +11,10 @@ Check the data integrity
 3.Loop compare these two files
 ~~~
 
+<a id="Argv"></a>
+## argv.sh
+
+~~~{.sh}
+While and for loop
+Get the parameter from the script.
+~~~
